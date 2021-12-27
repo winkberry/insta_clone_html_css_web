@@ -95,12 +95,14 @@ inputDiv {
 
 
 #main-web-box {
+    margin: auto;
     display: flex;
     flex-direction: row;
     justify-content: center;
 }
 
 .insta-feed {
+    margin-left: 150px;
     width: 47%;
 }
 
@@ -120,6 +122,7 @@ inputDiv {
 }
 
 .user-recommend {
+    margin-right: 0px;
     margin-top: 8vmin;
     margin-left: 10vmin;
     display: flex;
@@ -152,7 +155,7 @@ inputDiv {
 }
 
 .right {
-    width: 50%;
+    width: 40%;
     margin: 0;
 }
 
